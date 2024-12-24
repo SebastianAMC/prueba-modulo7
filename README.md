@@ -1,14 +1,7 @@
 # prueba-modulo7
 
-This template should help get you started developing with Vue 3 in Vite.
+DESPLEGADO EN: https://pruebamodulo7-12c7d.web.app/
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
 
 ## Project Setup
 
@@ -28,8 +21,8 @@ npm run dev
 npm run build
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+### Pruebas Unitarias
 
 ```sh
-npm run lint
+npm run test:unit
 ```
